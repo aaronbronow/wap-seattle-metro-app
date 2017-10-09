@@ -1,0 +1,35 @@
+index:
+ View Timetable
+  by Route
+
+
+View Timetable by Route:
+ Enter Route Number:
+  <input> Go
+
+ +Also see these routes:
+  <select>
+
+ +Direction of travel:
+  <select>
+
+ +Type of service:
+  <select>
+
+ +Time range:
+  Start: 
+   <select hour>
+   <select meridian>
+
+  End:
+   <select hour>
+   <select meridian>
+
+  OR
+  <select late night>
+
+ +Choose location:
+  <select>
+
+ +Timetable Display
+  <link home>
